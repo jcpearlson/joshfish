@@ -1,1 +1,2 @@
-numpy>=1.21.6
+chess>=1.10.0
+requests>=2.31.0

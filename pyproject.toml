@@ -6,4 +6,8 @@ readme = "README.md"
 requires-python = ">=3.7"
 dependencies = [
     "chess>=1.10.0",
+    "pillow>=9.5.0",
+    "requests>=2.31.0",
+    "streamlit>=1.23.1",
+    "urllib3==1.26.7",
 ]

@@ -1,0 +1,8 @@
+t clone --depth 1 https://github.com/dense-analysis/ale.git ~/.vim/pack/git-plugins/start/ale
+Neovim packload:
+mkdir -p ~/.local/share/nvim/site/pack/git-plugins/start
+git clone --depth 1 https://github.com/dense-analysis/ale.git ~/.local/share/nvim/site/pack/git-plugins/start/ale
+Windows packload:
+# Run these commands in the "Git for Windows" Bash terminal
+mkdir -p ~/vimfiles/pack/git-plugins/start
+git clone --depth 1 https://github.com/dense-analysis/ale.git ~/vimfiles/pack/git-plugins/start/aleO

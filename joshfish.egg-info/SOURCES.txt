@@ -1,6 +1,6 @@
 README.md
-hello.py
 pyproject.toml
+joshFish/bin/activate_this.py
 joshfish.egg-info/PKG-INFO
 joshfish.egg-info/SOURCES.txt
 joshfish.egg-info/dependency_links.txt
