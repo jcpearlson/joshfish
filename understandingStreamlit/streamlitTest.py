@@ -3,5 +3,3 @@ I have not really worked with steamlit much so I am going to do a demo page here
 Author:Josh Pearlson
 """
 import steamlit
-
-
